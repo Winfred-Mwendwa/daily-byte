@@ -1,6 +1,6 @@
 # DAILY-BYTE
 
-Code snippets from the daily byte-
+Code snippets from the daily byte- subscribe: <https://thedailybyte.dev/>
 
 ## Reverse a string
 
