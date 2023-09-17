@@ -29,4 +29,17 @@ Given a string, return whether or not it uses capitalization correctly. A string
 Given two binary strings (strings containing only 1s and 0s) return their sum (also as a binary string).
 Note: neither binary string will contain leading 0s unless the string itself is 0
 
-## leetcode: <https://leetcode.com/problems/add-binary/>
+### leetcode: <https://leetcode.com/problems/add-binary/>
+
+## Longest Common Prefix
+
+Given an array of strings, return the longest common prefix that is shared amongst all strings.
+Note: you may assume all strings only contain lowercase alphabetical characters.
+
+### leetcode: <https://leetcode.com/problems/longest-common-prefix/description/>
+
+## Valid Palindrome with removal
+
+Given a string and the ability to delete at most one character, return whether or not it can form a palindrome.
+
+### leetcode: <https://leetcode.com/problems/valid-palindrome-ii/>
