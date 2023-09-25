@@ -50,8 +50,6 @@ Given an integer x, return true if x is a palindrome, and false otherwise.
 
 ### leetcode: <https://leetcode.com/problems/palindrome-number/>
 
-### leetcode
-
 ## Fibonacci Number
 
 The Fibonacci numbers, commonly denoted F(n) form a sequence, called the Fibonacci sequence, such that each number is the sum of the two preceding ones, starting from 0 and 1. That is,
@@ -91,3 +89,41 @@ Implement pow(x, n), which calculates x raised to the power n (i.e., xn).
 Write a function that reverses a string. The input string is given as an array of characters s.
 
 You must do this by modifying the input array in-place with O(1) extra memory.
+
+### leetcode: <https://leetcode.com/problems/reverse-string/>
+
+## Reverse Integer
+
+Given a signed 32-bit integer x, return x with its digits reversed. If reversing x causes the value to go outside the signed 32-bit integer range [-231, 231 - 1], then return 0.
+
+Assume the environment does not allow you to store 64-bit integers (signed or unsigned).
+
+### leetcode: <https://leetcode.com/problems/reverse-integer/description/>
+
+## Regular Expression matching
+
+Given an input string s and a pattern p, implement regular expression matching with support for '.' and '*' where:
+
+'.' Matches any single character.​​​​
+'*' Matches zero or more of the preceding element.
+The matching should cover the entire input string (not partial).
+
+<https://redquark.org/leetcode/0010-regular-expression-matching/>
+
+### leetcode
+
+## Missing number
+
+Given an array nums containing n distinct numbers in the range [0, n], return the only number in the range that is missing from the array.
+
+### leetcode: <https://leetcode.com/problems/missing-number/description/>
+
+## Sqrt(x)
+
+Given a non-negative integer x, return the square root of x rounded down to the nearest integer. The returned integer should be non-negative as well.
+
+You must not use any built-in exponent function or operator.
+
+For example, do not use pow(x, 0.5) in c++ or x ** 0.5 in python.
+
+### leetcode: <https://leetcode.com/problems/sqrtx/description/>
