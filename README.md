@@ -127,3 +127,18 @@ You must not use any built-in exponent function or operator.
 For example, do not use pow(x, 0.5) in c++ or x ** 0.5 in python.
 
 ### leetcode: <https://leetcode.com/problems/sqrtx/description/>
+
+## First unique character in a string
+
+Given a string s, find the first non-repeating character in it and return its index. If it does not exist, return -1.
+
+### leetcode: <https://leetcode.com/problems/first-unique-character-in-a-string/description/>
+
+## Single Number I
+
+Given a non-empty array of integers nums, every element appears twice except for one. Find that single one.
+
+You must implement a solution with a linear runtime complexity and use only constant extra space.
+
+### leetcode: <https://leetcode.com/problems/single-number/description/>
+
