@@ -142,3 +142,10 @@ You must implement a solution with a linear runtime complexity and use only cons
 
 ### leetcode: <https://leetcode.com/problems/single-number/description/>
 
+## Longest Consecutive Sequence
+
+Given an unsorted array of integers nums, return the length of the longest consecutive elements sequence.
+
+You must write an algorithm that runs in O(n) time.
+
+### leetcode: <https://leetcode.com/problems/longest-consecutive-sequence/description/>
